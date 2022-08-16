@@ -27,3 +27,4 @@ print(sum)
 """
 
 # https://docs.python.org/ko/3/library/stdtypes.html?highlight=split (split 개념)
+# https://blockdmask.tistory.com/469
